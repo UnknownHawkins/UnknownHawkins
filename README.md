@@ -3,13 +3,14 @@
 <img src="https://github.com/mrhimanshu0207/Assets/blob/main/gradient-banner.gif" width="100%" />
 
 <h1>
-  <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
-  <p>Frontend Developer, CyberSecurity Explorer</p>
+  <span style="font-size: 50px; font-weight: 900;">⚡ ANUBHAV SINGH ⚡</span>
 </h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2200&pause=1000&color=4BA3FF&center=true&vCenter=true&width=820&lines=Frontend+Developer;Open+Source+Contributor;Cybersecurity+Explorer;UI%2FUX+Design+Architect;React+%2B+JavaScript+Specialist;Always+Learning%2C+Always+Building;Transforming+Ideas+Into+Beautiful+Interfaces" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anubhav7417&label=PROFILE+VISITORS&color=blue&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=PROFILE+VISITORS&color=blue&style=flat-square" />
 
 <br><br>
 
@@ -31,7 +32,7 @@
 🎨 Building aesthetic & performant web experiences  
 🧠 Focused on **React, UI Engineering, Animations, Cybersecurity**  
 ⚡ Learn by **build → break → debug → master**  
-🚀 Turning ideas into delightful interfaces
+🚀 Turning ideas into delightful interfaces  
 
 </div>
 
@@ -39,25 +40,17 @@
 
 ---
 
-## 🧠 Quick Highlights
-
-- ⚛️ Frontend-first mindset with scalable UI patterns  
-- 🎯 Strong project ownership (design → build → deploy)  
-- 🔐 Security-aware development basics  
-- 🧩 Comfortable collaborating & shipping fast
-
----
-
 ## 🔥 Current Mission
 
 ### 📚 **BookHub — Book Review App**  
-A beautifully crafted platform for exploring, reviewing, and managing books.  
-**Repo:** https://github.com/Anubhav7417/BOOK_REVIEW_APP  
-**Live:** https://book-review-app-8sur.onrender.com/
+A beautifully crafted platform for exploring, reviewing, and managing books.
+
+🔗 **Repo:** https://github.com/UnknownHawkins/BOOK_REVIEW_APP  
+🔗 **Live:** https://book-review-app-8sur.onrender.com/
 
 ---
 
-## 🌟PROJECT SHOWCASE
+## 🌟 Projects Showcase
 
 <div align="center">
 
@@ -68,7 +61,8 @@ A beautifully crafted platform for exploring, reviewing, and managing books.
 ### 👨‍💻 CodeBuddy  
 Find coding partners. Build teams. Collaborate smartly.  
 **Tech:** HTML • CSS • JavaScript  
-[Live](https://codebuddy-eight.vercel.app/) • [Repo](https://github.com/Anubhav7417)
+
+[Live](https://codebuddy-eight.vercel.app/) • [Repo](https://github.com/UnknownHawkins)
 
 </td>
 
@@ -77,7 +71,8 @@ Find coding partners. Build teams. Collaborate smartly.
 ### 📚 BookHub  
 React-powered book discovery & review platform.  
 **Tech:** React.js • CSS3  
-[Live](https://book-review-app-8sur.onrender.com/) • [Repo](https://github.com/Anubhav7417)
+
+[Live](https://book-review-app-8sur.onrender.com/) • [Repo](https://github.com/UnknownHawkins)
 
 </td>
 </tr>
@@ -88,7 +83,8 @@ React-powered book discovery & review platform.
 ### 🏫 Hostel Management System  
 Responsive interface for hostel operations.  
 **Tech:** HTML • CSS • JavaScript  
-[Live](https://hostel-management-system-pearl.vercel.app/) • [Repo](https://github.com/Anubhav7417)
+
+[Live](https://hostel-management-system-pearl.vercel.app/) • [Repo](https://github.com/UnknownHawkins)
 
 </td>
 
@@ -97,7 +93,8 @@ Responsive interface for hostel operations.
 ### 🤖 CareerPath-AI  
 AI-powered personalized career suggestions.  
 **Tech:** JavaScript  
-[Live](https://careerpath-ai-neon.vercel.app/) • [Repo](https://github.com/Anubhav7417)
+
+[Live](https://careerpath-ai-neon.vercel.app/) • [Repo](https://github.com/UnknownHawkins)
 
 </td>
 </tr>
@@ -107,7 +104,8 @@ AI-powered personalized career suggestions.
 
 ### 🧪 Life Ruination Protocol  
 Creative, experimental logic-art project.  
-[Live](https://life-ruination-protocol.vercel.app/) • [Repo](https://github.com/Anubhav7417)
+
+[Live](https://life-ruination-protocol.vercel.app/) • [Repo](https://github.com/UnknownHawkins)
 
 </td>
 
@@ -115,7 +113,8 @@ Creative, experimental logic-art project.
 
 ### 🌍 Portfolio  
 Clean, modern personal portfolio.  
-[Live](https://anubhav7417.github.io/MY_PORTFOLIO/) • [Repo](https://github.com/Anubhav7417)
+
+[Live](https://UnknownHawkins.github.io/MY_PORTFOLIO/) • [Repo](https://github.com/UnknownHawkins)
 
 </td>
 </tr>
@@ -125,17 +124,19 @@ Clean, modern personal portfolio.
 
 ---
 
-## 🌱 Currently Leveling Up In
+## 🌱 Currently Learning
+
 - Advanced React Patterns (Context, Memo, Optimization)  
 - Tailwind UI Architecture  
 - Firebase Auth + Firestore  
 - Cybersecurity Fundamentals  
-- Open Source Collaboration
+- Open Source Collaboration  
 
 ---
 
 ## 💬 Ask Me About
-⚛ React • 🟨 JavaScript • 🎨 UI/UX • 🔥 Firebase • 🛡 Cybersecurity Basics
+
+⚛ React • 🟨 JavaScript • 🎨 UI/UX • 🔥 Firebase • 🛡 Cybersecurity Basics  
 
 ---
 
@@ -147,7 +148,7 @@ Clean, modern personal portfolio.
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anonymous7217/)
 [![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@scared__abhiii)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/scared__abhiii)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Anubhav7417)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UnknownHawkins)
 [![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/zqekyc3cjn/)
 [![Kaggle](https://skillicons.dev/icons?i=kaggle)](https://kaggle.com/scaredabhiii)
 
@@ -169,13 +170,15 @@ Clean, modern personal portfolio.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anubhav7417&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav7417&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav7417&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=UnknownHawkins&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=UnknownHawkins&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav7417&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnknownHawkins&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -185,7 +188,7 @@ Clean, modern personal portfolio.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anubhav7417&theme=radical&column=6&margin-w=12&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=UnknownHawkins&theme=radical&column=6&margin-w=12&no-frame=true" />
 
 </div>
 
@@ -201,20 +204,9 @@ Clean, modern personal portfolio.
 
 ---
 
-<details>
-<summary><b>🧪 Extra (Click to expand)</b></summary>
-
-- 🧠 Exploring motion design with CSS & JS  
-- 🧩 Interested in scalable frontend architecture  
-- 🔐 Practicing security-first habits in web apps
-
-</details>
-
----
-
 <div align="center">
 
 ### ⭐ If this README impressed you — please ⭐ star my repositories  
-🔥 Your support motivates my next builds
+🔥 Your support motivates my next builds  
 
 </div>
