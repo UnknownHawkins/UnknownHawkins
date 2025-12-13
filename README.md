@@ -3,10 +3,9 @@
 <img src="https://github.com/mrhimanshu0207/Assets/blob/main/gradient-banner.gif" width="100%" />
 
 <h1>
-  <span style="font-size: 50px; font-weight: 900;">⚡ ANUBHAV SINGH ⚡</span>
+  <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
+  <p>Frontend Developer, CyberSecurity Explorer</p>
 </h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2200&pause=1000&color=4BA3FF&center=true&vCenter=true&width=820&lines=Frontend+Developer;Open+Source+Contributor;Cybersecurity+Explorer;UI%2FUX+Design+Architect;React+%2B+JavaScript+Specialist;Always+Learning%2C+Always+Building;Transforming+Ideas+Into+Beautiful+Interfaces" />
 
 <br>
 
