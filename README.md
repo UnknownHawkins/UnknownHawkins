@@ -2,10 +2,11 @@
 
 <img src="https://github.com/mrhimanshu0207/Assets/blob/main/gradient-banner.gif" width="100%" />
 
-<h1 align="center">
-<span style="font-size: 50px; font-weight: 900;">⚡ ANUBHAV SINGH ⚡</span>
-<h3>Frontend Developer • Open Source Contributor • Cybersecurity Explorer</h3>
+<h1>
+  <span style="font-size: 50px; font-weight: 900;">⚡ ANUBHAV SINGH ⚡</span>
 </h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2200&pause=1000&color=4BA3FF&center=true&vCenter=true&width=820&lines=Frontend+Developer;Open+Source+Contributor;Cybersecurity+Explorer;UI%2FUX+Design+Architect;React+%2B+JavaScript+Specialist;Always+Learning%2C+Always+Building;Transforming+Ideas+Into+Beautiful+Interfaces" />
 
 <br>
 
@@ -14,7 +15,7 @@
 <br><br>
 
 <a href="https://buymeacoffee.com/scared_abhiii" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="200">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="190" />
 </a>
 
 </div>
@@ -23,30 +24,41 @@
 
 ---
 
-# ✨ About Me — *The Human Behind The Code*
+## ✨ About Me — *The Human Behind The Code*
 
 <div align="center">
 
 🌟 Pre-final Year **CSE Student @ GLA University, Mathura**  
-🎨 I build aesthetic & functional web experiences  
-⚛ Passionate about **React, UI/UX, Animation, Cybersecurity**  
-🚀 I learn by building → breaking → debugging → mastering  
+🎨 Building aesthetic & performant web experiences  
+🧠 Focused on **React, UI Engineering, Animations, Cybersecurity**  
+⚡ Learn by **build → break → debug → master**  
+🚀 Turning ideas into delightful interfaces
 
 </div>
 
----
-
-# 🔥 Featured Project — BookHub
-
-### 📚 **BookHub — Modern Book Review App**  
-A beautifully crafted platform to explore, rate & review books.
-
-🔗 **Repo:** https://github.com/Anubhav7417/BOOK_REVIEW_APP  
-🔗 **Live Demo:** https://book-review-app-8sur.onrender.com/
+> _“I debug more than I code — which is exactly why my code works.”_ 😄
 
 ---
 
-# 🌟 Projects Showcase
+## 🧠 Quick Highlights
+
+- ⚛️ Frontend-first mindset with scalable UI patterns  
+- 🎯 Strong project ownership (design → build → deploy)  
+- 🔐 Security-aware development basics  
+- 🧩 Comfortable collaborating & shipping fast
+
+---
+
+## 🔥 Current Mission
+
+### 📚 **BookHub — Book Review App**  
+A beautifully crafted platform for exploring, reviewing, and managing books.  
+**Repo:** https://github.com/Anubhav7417/BOOK_REVIEW_APP  
+**Live:** https://book-review-app-8sur.onrender.com/
+
+---
+
+## 🌟PROJECT SHOWCASE
 
 <div align="center">
 
@@ -55,9 +67,8 @@ A beautifully crafted platform to explore, rate & review books.
 <td width="45%" align="center">
 
 ### 👨‍💻 CodeBuddy  
-Find coding partners. Collaborate smarter.  
+Find coding partners. Build teams. Collaborate smartly.  
 **Tech:** HTML • CSS • JavaScript  
-
 [Live](https://codebuddy-eight.vercel.app/) • [Repo](https://github.com/Anubhav7417)
 
 </td>
@@ -67,7 +78,6 @@ Find coding partners. Collaborate smarter.
 ### 📚 BookHub  
 React-powered book discovery & review platform.  
 **Tech:** React.js • CSS3  
-
 [Live](https://book-review-app-8sur.onrender.com/) • [Repo](https://github.com/Anubhav7417)
 
 </td>
@@ -79,7 +89,6 @@ React-powered book discovery & review platform.
 ### 🏫 Hostel Management System  
 Responsive interface for hostel operations.  
 **Tech:** HTML • CSS • JavaScript  
-
 [Live](https://hostel-management-system-pearl.vercel.app/) • [Repo](https://github.com/Anubhav7417)
 
 </td>
@@ -89,7 +98,6 @@ Responsive interface for hostel operations.
 ### 🤖 CareerPath-AI  
 AI-powered personalized career suggestions.  
 **Tech:** JavaScript  
-
 [Live](https://careerpath-ai-neon.vercel.app/) • [Repo](https://github.com/Anubhav7417)
 
 </td>
@@ -99,45 +107,40 @@ AI-powered personalized career suggestions.
 <td width="45%" align="center">
 
 ### 🧪 Life Ruination Protocol  
-Creative digital logic-art project.  
-
+Creative, experimental logic-art project.  
 [Live](https://life-ruination-protocol.vercel.app/) • [Repo](https://github.com/Anubhav7417)
 
 </td>
 
 <td width="45%" align="center">
 
-### 🌍 My Portfolio  
-Clean, minimal personal portfolio.  
-
+### 🌍 Portfolio  
+Clean, modern personal portfolio.  
 [Live](https://anubhav7417.github.io/MY_PORTFOLIO/) • [Repo](https://github.com/Anubhav7417)
 
 </td>
 </tr>
-
 </table>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
-
-- React.js (Advanced Patterns)  
-- Tailwind CSS  
-- Firebase (Auth + Firestore)  
-- Cybersecurity Essentials  
-- Open Source Collaboration  
-
----
-
-# 💬 Ask Me About
-
-React • JavaScript • UI/UX • Firebase • Cybersecurity  
+## 🌱 Currently Leveling Up In
+- Advanced React Patterns (Context, Memo, Optimization)  
+- Tailwind UI Architecture  
+- Firebase Auth + Firestore  
+- Cybersecurity Fundamentals  
+- Open Source Collaboration
 
 ---
 
-# 🌐 Connect With Me
+## 💬 Ask Me About
+⚛ React • 🟨 JavaScript • 🎨 UI/UX • 🔥 Firebase • 🛡 Cybersecurity Basics
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -153,7 +156,7 @@ React • JavaScript • UI/UX • Firebase • Cybersecurity
 
 ---
 
-# 🧩 Skills
+## 🧩 Skills & Tools
 
 <div align="center">
 
@@ -163,19 +166,33 @@ React • JavaScript • UI/UX • Firebase • Cybersecurity
 
 ---
 
-# 📊 GitHub Stats
+## 📈 Activity & Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anubhav7417&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav7417&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav7417&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anubhav7417&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav7417&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav7417&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav7417&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anubhav7417&theme=radical&column=6&margin-w=12&no-frame=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -185,15 +202,20 @@ React • JavaScript • UI/UX • Firebase • Cybersecurity
 
 ---
 
-# ⚡ Fun Fact
+<details>
+<summary><b>🧪 Extra (Click to expand)</b></summary>
 
-### _“I break things to understand them… and fix them to feel powerful.”_ 😄
+- 🧠 Exploring motion design with CSS & JS  
+- 🧩 Interested in scalable frontend architecture  
+- 🔐 Practicing security-first habits in web apps
+
+</details>
 
 ---
 
 <div align="center">
 
-### ⭐ If this README helped you — don’t forget to ⭐ star my repositories!  
-🔥 Your support keeps me building 🚀  
+### ⭐ If this README impressed you — please ⭐ star my repositories  
+🔥 Your support motivates my next builds
 
 </div>
