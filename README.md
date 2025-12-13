@@ -183,14 +183,6 @@ Clean, modern personal portfolio.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=UnknownHawkins&theme=radical&column=6&margin-w=12&no-frame=true" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
