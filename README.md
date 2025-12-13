@@ -135,7 +135,11 @@ Clean, modern personal portfolio.
 
 ## 💬 Ask Me About
 
-⚛ React • 🟨 JavaScript • 🎨 UI/UX • 🔥 Firebase • 🛡 Cybersecurity Basics  
+⚛ React
+• 🟨 JavaScript 
+• 🎨 UI/UX 
+• 🔥 Firebase 
+• 🛡 Cybersecurity Basics  
 
 ---
 
