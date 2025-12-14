@@ -61,7 +61,7 @@ A beautifully crafted platform for exploring, reviewing, and managing books.
 Find coding partners. Build teams. Collaborate smartly.  
 **Tech:** HTML • CSS • JavaScript  
 
-[Live](https://codebuddy-eight.vercel.app/) • [Repo](https://github.com/UnknownHawkins)
+[Live](https://codebuddy-eight.vercel.app/) • [Repo](https://github.com/UnknownHawkins/CODEBUDDY)
 
 </td>
 
@@ -71,7 +71,7 @@ Find coding partners. Build teams. Collaborate smartly.
 React-powered book discovery & review platform.  
 **Tech:** React.js • CSS3  
 
-[Live](https://book-review-app-8sur.onrender.com/) • [Repo](https://github.com/UnknownHawkins)
+[Live](https://book-review-app-8sur.onrender.com/) • [Repo](https://github.com/UnknownHawkins/BOOK_REVIEW_APP)
 
 </td>
 </tr>
@@ -83,7 +83,7 @@ React-powered book discovery & review platform.
 Responsive interface for hostel operations.  
 **Tech:** HTML • CSS • JavaScript  
 
-[Live](https://hostel-management-system-pearl.vercel.app/) • [Repo](https://github.com/UnknownHawkins)
+[Live](https://hostel-management-system-pearl.vercel.app/) • [Repo](https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM)
 
 </td>
 
@@ -93,7 +93,7 @@ Responsive interface for hostel operations.
 AI-powered personalized career suggestions.  
 **Tech:** JavaScript  
 
-[Live](https://careerpath-ai-neon.vercel.app/) • [Repo](https://github.com/UnknownHawkins)
+[Live](https://careerpath-ai-neon.vercel.app/) • [Repo](https://github.com/UnknownHawkins/CAREERPATH-AI)
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ AI-powered personalized career suggestions.
 ### 🧪 Life Ruination Protocol  
 Creative, experimental logic-art project.  
 
-[Live](https://life-ruination-protocol.vercel.app/) • [Repo](https://github.com/UnknownHawkins)
+[Live](https://life-ruination-protocol.vercel.app/) • [Repo](https://github.com/UnknownHawkins/LIFE_RUINATION_PROTOCOL)
 
 </td>
 
@@ -113,7 +113,7 @@ Creative, experimental logic-art project.
 ### 🌍 Portfolio  
 Clean, modern personal portfolio.  
 
-[Live](https://UnknownHawkins.github.io/MY_PORTFOLIO/) • [Repo](https://github.com/UnknownHawkins)
+[Live](https://UnknownHawkins.github.io/MY_PORTFOLIO/) • [Repo](https://github.com/UnknownHawkins/MY_PORTFOLIO)
 
 </td>
 </tr>
