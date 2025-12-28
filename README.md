@@ -184,9 +184,9 @@ Clean, modern personal portfolio.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UnknownHawkins&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?user=UnknownHawkins&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?user=UnknownHawkins&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=UnknownHawkins&theme=tokyonight&hide_border=true" />
 
