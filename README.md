@@ -59,7 +59,7 @@ A beautifully crafted platform for exploring, reviewing, and managing books.
 
 ### 👨‍💻 CodeBuddy  
 Find coding partners. Build teams. Collaborate smartly.  
-**Tech:** HTML • CSS • JavaScript  
+**Tech:** HTML5 • CSS3 • JavaScript  
 
 [Live](https://codebuddy-eight.vercel.app/) • [Repo](https://github.com/UnknownHawkins/CODEBUDDY)
 
@@ -69,7 +69,7 @@ Find coding partners. Build teams. Collaborate smartly.
 
 ### 📚 BookHub  
 React-powered book discovery & review platform.  
-**Tech:** React.js • CSS3  
+**Tech:** React.js • CSS3 • HTML5
 
 [Live](https://book-review-app-8sur.onrender.com/) • [Repo](https://github.com/UnknownHawkins/BOOK_REVIEW_APP)
 
@@ -81,7 +81,7 @@ React-powered book discovery & review platform.
 
 ### 🏫 Hostel Management System  
 Responsive interface for hostel operations.  
-**Tech:** HTML • CSS • JavaScript  
+**Tech:** HTML5 • CSS3 • JavaScript  
 
 [Live](https://hostel-management-system-pearl.vercel.app/) • [Repo](https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM)
 
@@ -91,7 +91,7 @@ Responsive interface for hostel operations.
 
 ### 🤖 CareerPath-AI  
 AI-powered personalized career suggestions.  
-**Tech:** JavaScript  
+**Tech:** JavaScript • HTML5 • CSS3  
 
 [Live](https://careerpath-ai-neon.vercel.app/) • [Repo](https://github.com/UnknownHawkins/CAREERPATH-AI)
 
@@ -103,6 +103,7 @@ AI-powered personalized career suggestions.
 
 ### 🧪 Life Ruination Protocol  
 Creative, experimental logic-art project.  
+**Tech:** JavaScript • HTML5 • CSS3  
 
 [Live](https://life-ruination-protocol.vercel.app/) • [Repo](https://github.com/UnknownHawkins/LIFE_RUINATION_PROTOCOL)
 
@@ -112,7 +113,7 @@ Creative, experimental logic-art project.
 
 ### 🌍 Portfolio  
 Clean, modern personal portfolio.  
-
+**Tech:** JavaScript • HTML5 • CSS3  
 [Live](https://UnknownHawkins.github.io/MY_PORTFOLIO/) • [Repo](https://github.com/UnknownHawkins/MY_PORTFOLIO)
 
 </td>
@@ -125,18 +126,20 @@ Clean, modern personal portfolio.
 
 ## 🌱 Currently Learning
 
-- Advanced React Patterns (Context, Memo, Optimization)  
+- React Patterns (Context, Memo, Optimization)  
 - Tailwind UI Architecture  
 - Firebase Auth + Firestore  
 - Cybersecurity Fundamentals  
-- Open Source Collaboration  
+- Open Source Collaboration
+- AI/ML Explorer  
 
 ---
 
 ## 💬 Ask Me About
 
-⚛ React
-• 🟨 JavaScript 
+⚛ HTML
+• 🟨 javaScript
+•     CSS3
 • 🎨 UI/UX 
 • 🔥 Firebase 
 • 🛡 Cybersecurity Basics  
