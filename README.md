@@ -179,7 +179,9 @@ Clean, modern personal portfolio.
 ## 📈 Activity & Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=UnknownHawkins&theme=tokyonight&hide_border=true" />
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UnknownHawkins&theme=algolia)
+
   <p align="center">
   <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=synthwave" height="150">
 </p>
@@ -221,11 +223,7 @@ Clean, modern personal portfolio.
 
 ---
 
----
-## 🔥 My GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UnknownHawkins&theme=algolia)
 
----
 ---
 
 <div align="center">
