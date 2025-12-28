@@ -138,7 +138,7 @@ Clean, modern personal portfolio.
 
 ## 💬 Ask Me About
 
-⚛ HTML
+⚛ React
 • 🟨 javaScript
 •     CSS3
 • 🎨 UI/UX 
