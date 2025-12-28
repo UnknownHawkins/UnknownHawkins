@@ -179,14 +179,10 @@ Clean, modern personal portfolio.
 ## 📈 Activity & Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnknownHawkins&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=tokyonight&hide_border=true)
-
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=UnknownHawkins&theme=tokyonight&hide_border=true" />
-
+  <p align="center">
+  <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=synthwave" height="150">
+</p>
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnknownHawkins&theme=tokyo-night&hide_border=true" />
