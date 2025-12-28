@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/mrhimanshu0207/Assets/blob/main/gradient-banner.gif" width="100%" />
-
 <h1>
   <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
 </h1>
