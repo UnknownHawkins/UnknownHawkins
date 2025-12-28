@@ -216,16 +216,14 @@ Clean, modern personal portfolio.
 
 ---
 ---
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/UnknownHawkins/UnknownHawkins/output/github-contribution-grid-snake-dark.svg)
-
----
-
----
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=UnknownHawkinks&theme=algolia)
+
+---
+
+---
+## 🔥 My GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=algolia)
 
 ---
 ---
