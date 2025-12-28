@@ -7,10 +7,10 @@
 
 <br>
 
-
+<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=PROFILE+VISITORS&color=blue&style=flat-square" />
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=PROFILE+VISITORS&color=blue&style=flat-square" />
+
 <a href="https://buymeacoffee.com/scared_abhiii" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="190" />
 </a>
