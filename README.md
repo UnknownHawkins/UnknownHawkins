@@ -180,7 +180,7 @@ Clean, modern personal portfolio.
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UnknownHawkins&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=UnknownHawkins&theme=algolia)
 
   <p align="center">
   <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=synthwave" height="150">
