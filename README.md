@@ -182,23 +182,11 @@ Clean, modern personal portfolio.
 <p align="center">
   <img src="https://github-readme-stats-phi-ashen.vercel.app/api?username=UnknownHawkins&show_icons=true&theme=tokyonight" height="170">
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnknownHawkins&theme=tokyonight" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=synthwave" height="150">
-</p>
-
-
-  <p align="center">
   <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=synthwave" height="150">
 </p>
 <br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnknownHawkins&theme=tokyo-night&hide_border=true" />
-
 </div>
 
 ---
