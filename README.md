@@ -4,16 +4,12 @@
   <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
 </h1>
 <p>Frontend Developer, CyberSecurity Explorer, AI & Ml Explorer</p>
-
+<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=PROFILE+VISITORS&color=blue&style=flat-square" />
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=PROFILE+VISITORS&color=blue&style=flat-square" />
 
 <br><br>
-
-<a href="https://buymeacoffee.com/scared_abhiii" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="190" />
-</a>
 
 </div>
 
@@ -224,7 +220,9 @@ Clean, modern personal portfolio.
 
 
 ---
-
+<a href="https://buymeacoffee.com/scared_abhiii" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="190" />
+</a>
 
 ---
 
