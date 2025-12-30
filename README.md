@@ -216,8 +216,11 @@ Clean, modern personal portfolio.
 
 ---
 ---
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=UnknownHawkinks&theme=algolia)
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UnknownHawkinks&theme=algolia" />
+</p>
 
 ---
 
