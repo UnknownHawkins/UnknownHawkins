@@ -4,7 +4,6 @@
   <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
 </h1>
 <p>Frontend Developer, CyberSecurity Explorer, AI & Ml Explorer</p>
-<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=PROFILE+VISITORS&color=blue&style=flat-square" />
 <br>
 
 <br><br>
@@ -13,16 +12,16 @@
 
 ---
 ---
-
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 ## ✨ About Me — *The Human Behind The Code*
 
-<div align="center">
+<div>
 
-🌟 Pre-final Year **CSE Student @ GLA University, Mathura**  
-🎨 Building aesthetic & performant web experiences  
-🧠 Focused on **React, UI Engineering, Animations, Cybersecurity**  
-⚡ Learn by **build → break → debug → master**  
-🚀 Turning ideas into delightful interfaces  
+Pre-final Year **CSE Student @ GLA University, Mathura**  
+Building aesthetic & performant web experiences  
+Focused on **React, UI Engineering, Animations, Cybersecurity**  
+Learn by **build → break → debug → master**
+Turning ideas into delightful interfaces  
 
 </div>
 
