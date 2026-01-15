@@ -21,9 +21,7 @@ Turning ideas into delightful interfaces
 > _“I debug more than I code — which is exactly why my code works.”_ 😄
 
 
-
---
-
+<div>
 ## 🔥 Current Mission
 
 ### 📚 **BookHub — Book Review App**  
@@ -32,6 +30,7 @@ A beautifully crafted platform for exploring, reviewing, and managing books.
 🔗 **Repo:** https://github.com/UnknownHawkins/BOOK_REVIEW_APP  
 🔗 **Live:** https://book-review-app-8sur.onrender.com/
 
+</div>
 ---
 ---
 
