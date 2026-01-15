@@ -1,22 +1,16 @@
 <div align="center">
-
 <h1>
   <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
 </h1>
 <p>Frontend Developer, CyberSecurity Explorer, AI & Ml Explorer</p>
 <br>
-
-<br><br>
-
 </div>
 
----
----
-<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-## ✨ About Me — *The Human Behind The Code*
 
 <div>
-
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+## ✨ About Me — *The Human Behind The Code*
+  
 Pre-final Year **CSE Student @ GLA University, Mathura**  
 Building aesthetic & performant web experiences  
 Focused on **React, UI Engineering, Animations, Cybersecurity**  
