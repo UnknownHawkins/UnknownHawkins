@@ -78,7 +78,6 @@ AI-powered personalized career suggestions.
 **Tech:** JavaScript • HTML5 • CSS3  
 
 [Live](https://careerpath-ai-neon.vercel.app/) • [Repo](https://github.com/UnknownHawkins/CAREERPATH-AI)
-
 </td>
 </tr>
 
