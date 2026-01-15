@@ -24,11 +24,10 @@ Turning ideas into delightful interfaces
 <div>
 ## 🔥 Current Mission
 
-### 📚 **BookHub — Book Review App**  
-A beautifully crafted platform for exploring, reviewing, and managing books.
+###  **WOMAN SAFETY APP**  
+The Women Safety Voice Assistant is an Android-based application developed using Kotlin and Java to enhance women’s security during emergency situations.
 
-🔗 **Repo:** https://github.com/UnknownHawkins/BOOK_REVIEW_APP  
-🔗 **Live:** https://book-review-app-8sur.onrender.com/
+🔗 **Repo:** https://github.com/UnknownHawkins/WOMEN_SAFETY_ASSISTANT
 
 </div>
 ---
