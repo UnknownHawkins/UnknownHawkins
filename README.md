@@ -20,8 +20,6 @@ Turning ideas into delightful interfaces
 
 > _“I debug more than I code — which is exactly why my code works.”_ 😄
 
----
----
 
 ## 🔥 Current Mission
 
