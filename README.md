@@ -6,9 +6,8 @@
 <br>
 </div>
 
-
-<div>
 <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div>
 ## ✨ About Me — *The Human Behind The Code*
   
 Pre-final Year **CSE Student @ GLA University, Mathura**  
