@@ -2,7 +2,9 @@
 <h1>
   <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
 </h1>
-<p>Frontend Developer, CyberSecurity Explorer, AI & Ml Explorer</p>
+<h1>
+  <p>Frontend Developer, CyberSecurity Explorer, AI & Ml Explorer</p>
+</h1>
 <br>
 </div>
 
