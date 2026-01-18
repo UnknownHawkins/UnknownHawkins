@@ -43,15 +43,6 @@ The Women Safety Voice Assistant is an Android-based application developed using
 <tr>
 <td width="45%" align="center">
 
-### Woman Safety App 
-The Women Safety Voice Assistant.  Android-based application. enhance women’s security during emergency situations.
-**Tech:** Kotlin • Android Studio 
-
-[Live](https://codebuddy-eight.vercel.app/) • [Repo](https://github.com/UnknownHawkins/CODEBUDDY)
-
-</td>
-<td width="45%" align="center">
-
 ### 👨‍💻 CodeBuddy  
 Find coding partners. Build teams. Collaborate smartly.  
 **Tech:** HTML5 • CSS3 • JavaScript  
