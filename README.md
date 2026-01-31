@@ -205,7 +205,7 @@ Clean, modern personal portfolio.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=UnknownHawkins&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/UnknownHawkins)
+[trophy](https://github-profile-trophy.vercel.app/?username=UnknownHawkins&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/UnknownHawkins)
 </p>
 
 
