@@ -199,12 +199,6 @@ Clean, modern personal portfolio.
   <img src="https://leetcard.jacoblin.cool/UnknownHawkins?theme=dark&font=Roboto&ext=heatmap" width="700px" />
 </div>
 
-
----
----
-
-
----
 <div align="center">
 <a href="https://buymeacoffee.com/scared_abhiii" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="190" />
