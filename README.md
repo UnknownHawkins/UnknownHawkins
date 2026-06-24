@@ -99,7 +99,7 @@ Creative, experimental logic-art project.
 ### 🌍 Portfolio  
 Clean, modern personal portfolio.  
 **Tech:** JavaScript • HTML5 • CSS3  
-[Live](https://UnknownHawkins.github.io/MY_PORTFOLIO/) • [Repo](https://github.com/UnknownHawkins/MY_PORTFOLIO)
+[Live](https://my-portfolio-tct6.onrender.com/) • [Repo](https://github.com/UnknownHawkins/MY_PORTFOLIO)
 
 </td>
 </tr>
