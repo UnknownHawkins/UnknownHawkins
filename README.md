@@ -118,7 +118,6 @@ Next.js • Express • TypeScript • PostgreSQL • Prisma • Redis • Clerk
 
 [Live](https://book-review-app-8sur.onrender.com/)
 
-•
 
 [Repo](https://github.com/UnknownHawkins/BOOK_REVIEW_APP)
 
@@ -151,7 +150,6 @@ Next.js 15 • TypeScript • Prisma • PostgreSQL
 
 [Live](https://my-portfolio-tct6.onrender.com/)
 
-•
 
 [Repo](https://github.com/UnknownHawkins/MY_PORTFOLIO)
 
@@ -206,7 +204,6 @@ JavaScript • Gemini AI • HTML • CSS
 
 [Live](https://careerpath-ai-neon.vercel.app/)
 
-•
 
 [Repo](https://github.com/UnknownHawkins/CAREERPATH-AI)
 
@@ -233,7 +230,6 @@ HTML5 • CSS3 • JavaScript
 
 [Live](https://codebuddy-eight.vercel.app/)
 
-•
 
 [Repo](https://github.com/UnknownHawkins/CODEBUDDY)
 
@@ -257,7 +253,6 @@ JavaScript • HTML5 • CSS3
 
 [Live](https://life-ruination-protocol.vercel.app/)
 
-•
 
 [Repo](https://github.com/UnknownHawkins/LIFE_RUINATION_PROTOCOL)
 
