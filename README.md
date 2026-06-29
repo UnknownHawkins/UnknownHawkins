@@ -437,22 +437,6 @@ JavaScript • HTML5 • CSS3
 ```
 
 ---
-
-<div align="center">
-
-## ⭐ Thanks for Visiting!
-
-*"Code is more than syntax—it's solving real problems with creativity and consistency."*
-
-⭐ **If you enjoyed my projects, consider starring the repositories!**
-
-**Let's build something amazing together. 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
-
 ---
 
 ## 📌 Featured Technologies
@@ -546,4 +530,18 @@ I'm always interested in collaborating on:
 
 If you have an exciting idea, feel free to reach out!
 
+---
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+*"Code is more than syntax—it's solving real problems with creativity and consistency."*
+
+⭐ **If you enjoyed my projects, consider starring the repositories!**
+
+**Let's build something amazing together. 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 ---
