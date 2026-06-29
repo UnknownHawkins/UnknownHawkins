@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-## ✨ About Me — *The Human Behind The Code*
+#### ✨ About Me — *The Human Behind The Code*
 
 🎓 **Final Year Computer Science Engineering Student @ GLA University, Mathura**
 
