@@ -5,7 +5,7 @@
 </h1>
 
 <h3>
-  <p>Full Stack Developer • AI Explorer • Cybersecurity Explorer</p>
+  <p>Front-End Developer • AI Explorer • Cybersecurity Explorer</p>
 </h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Scalable+Software;AI+Powered+Applications;Backend+Engineering;Always+Learning+Something+New+🚀" />
@@ -42,7 +42,7 @@ I strongly believe in
 
 ## 🔥 Current Mission
 
-### 🏨 Enterprise Hostel Management System (EHMS)
+### 🏨 Hostel Management System (HMS)
 
 Building a production-ready hostel management platform featuring:
 
@@ -77,17 +77,11 @@ Production-ready hostel management platform.
 **Highlights**
 
 ✅ Student Portal
-
 ✅ Warden Dashboard
-
 ✅ Admin Dashboard
-
 ✅ AI Complaint Analysis
-
 ✅ Leave Management
-
 ✅ Visitor Management
-
 ✅ Docker Deployment
 
 **Tech**
@@ -109,17 +103,11 @@ Enterprise Digital Reading Platform
 **Highlights**
 
 ✅ AI E-Book Generator
-
 ✅ Google Books Integration
-
 ✅ Clerk Authentication
-
 ✅ Prisma ORM
-
 ✅ PostgreSQL
-
 ✅ Redis Cache
-
 ✅ Turborepo Monorepo
 
 **Tech**
@@ -149,15 +137,10 @@ Production-ready developer portfolio.
 **Highlights**
 
 ✅ Admin Dashboard
-
 ✅ GitHub API
-
 ✅ Dynamic SEO
-
 ✅ PostgreSQL
-
 ✅ Redis Cache
-
 ✅ NextAuth
 
 **Tech**
@@ -183,13 +166,9 @@ Android emergency safety application.
 **Highlights**
 
 ✅ SOS Alerts
-
 ✅ Voice Commands
-
 ✅ Live Location
-
 ✅ Firebase
-
 ✅ Emergency Calling
 
 **Tech**
@@ -215,11 +194,8 @@ AI-powered career guidance platform.
 **Highlights**
 
 ✅ Career Recommendations
-
 ✅ Skill Gap Analysis
-
 ✅ AI Learning Roadmap
-
 ✅ Resume Guidance
 
 **Tech**
@@ -245,11 +221,8 @@ Find coding partners and collaborate.
 **Highlights**
 
 ✅ Team Discovery
-
 ✅ Responsive Design
-
 ✅ Collaboration
-
 ✅ Modern UI
 
 **Tech**
@@ -317,21 +290,13 @@ JavaScript • HTML5 • CSS3
 ⚛️ React
 
 • 🚀 Next.js
-
 • 🟦 TypeScript
-
 • 🔥 Express.js
-
 • 🗄️ PostgreSQL
-
 • 🧠 Prisma ORM
-
 • 🤖 AI Integration
-
 • 🐳 Docker
-
 • 🛡️ Cybersecurity
-
 • 🎨 UI/UX
 
 
