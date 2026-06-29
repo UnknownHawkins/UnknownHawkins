@@ -8,7 +8,7 @@
   <p>Front-End Developer • AI Explorer • Cybersecurity Explorer</p>
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Scalable+Software;AI+Powered+Applications;Backend+Engineering;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Front+end+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Scalable+Products;AI+Powered+Applications;Learning+Backend+Engineering;Always+Learning+Something+New" />
 
 </div>
 
