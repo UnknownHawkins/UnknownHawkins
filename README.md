@@ -547,15 +547,3 @@ I'm always interested in collaborating on:
 If you have an exciting idea, feel free to reach out!
 
 ---
-
-<div align="center">
-
-## 🌟 Thanks for Visiting!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!;Always+Learning.+Always+Building.">
-
-### ⭐ If you like my work, don't forget to star my repositories!
-
-<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
