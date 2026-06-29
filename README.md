@@ -1,33 +1,34 @@
 <div align="center">
 
-# <span style="font-size:50px;font-weight:900;">ANUBHAV SINGH</span>
+<h1>
+  <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
+</h1>
 
-### Full Stack Developer • AI Explorer • Cybersecurity Explorer
+<h3>
+  <p>Full Stack Developer • AI Explorer • Cybersecurity Explorer</p>
+</h3>
 
-*"Building scalable software, beautiful interfaces, and intelligent systems."*
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;AI+Powered+Applications;Backend+Engineering;Open+Source+Learner;Always+Building+Something+Cool+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Scalable+Software;AI+Powered+Applications;Backend+Engineering;Always+Learning+Something+New+🚀" />
 
 </div>
 
----
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-# ✨ About Me — *The Human Behind The Code*
+## ✨ About Me — *The Human Behind The Code*
 
 🎓 **Final Year Computer Science Engineering Student @ GLA University, Mathura**
 
-I enjoy building **production-ready full-stack applications** with modern architectures, clean UI, scalable backend systems, and AI integrations.
+I'm passionate about building **production-ready full-stack applications** with modern architectures, beautiful user experiences, scalable backend systems, and AI-powered solutions.
 
-Currently interested in:
+I enjoy turning ideas into software that is fast, reliable, and enjoyable to use.
 
-* 🚀 Full Stack Engineering
+### 🚀 Interests
+
 * ⚛️ React & Next.js
+* 🚀 Full Stack Engineering
 * 🤖 AI Powered Applications
 * 🏗️ Software Architecture
+* 🗄️ Database Design
 * 🛡️ Cybersecurity
 * ☁️ Cloud & DevOps
 
@@ -35,23 +36,31 @@ I strongly believe in
 
 > **Build → Break → Debug → Improve → Repeat**
 
-Turning ideas into products people actually enjoy using.
-
 > *"I debug more than I code — which is exactly why my code works."* 😄
 
 ---
 
-# 🔥 Current Mission
+## 🔥 Current Mission
 
 ### 🏨 Enterprise Hostel Management System (EHMS)
 
-Building a production-ready hostel management platform with **AI automation, RBAC authentication, Docker deployment, PostgreSQL, Redis caching, and enterprise architecture.**
+Building a production-ready hostel management platform featuring:
 
-🔗 **Repository:** https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM
+* 🔐 Role Based Authentication
+* 🤖 AI Complaint Analysis
+* 📊 Analytics Dashboard
+* 🐳 Docker Deployment
+* 🗄️ PostgreSQL + Prisma
+* ⚡ Redis Cache
+* 🌐 Real-time Management System
+
+**Repository**
+
+https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM
 
 ---
 
-# 🌟 Projects Showcase
+## 🌟 Projects Showcase
 
 <div align="center">
 
@@ -61,67 +70,69 @@ Building a production-ready hostel management platform with **AI automation, RBA
 
 <td width="50%" align="center">
 
-## 🏨 EHMS
+### 🏨 Enterprise Hostel Management System
 
-**Enterprise Hostel Management System**
+Production-ready hostel management platform.
 
-Production-ready hostel management platform featuring:
+**Highlights**
 
-✔ Student Portal
+✅ Student Portal
 
-✔ Warden Dashboard
+✅ Warden Dashboard
 
-✔ Admin Panel
+✅ Admin Dashboard
 
-✔ AI Complaint Analysis
+✅ AI Complaint Analysis
 
-✔ Leave Management
+✅ Leave Management
 
-✔ Payments
+✅ Visitor Management
 
-✔ Docker Deployment
+✅ Docker Deployment
 
 **Tech**
 
 Next.js 15 • Express • TypeScript • Prisma • PostgreSQL • Redis • Docker
 
-**Repo**
+<br>
 
-https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM
+[Repo](https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM)
 
 </td>
 
 <td width="50%" align="center">
 
-## 📚 BookHub
+### 📚 BookHub
 
-**Enterprise Digital Reading Platform**
+Enterprise Digital Reading Platform
 
-AI-powered social reading application with:
+**Highlights**
 
-✔ Google Books Integration
+✅ AI E-Book Generator
 
-✔ AI E-Book Generation
+✅ Google Books Integration
 
-✔ Clerk Authentication
+✅ Clerk Authentication
 
-✔ Prisma ORM
+✅ Prisma ORM
 
-✔ Redis Cache
+✅ PostgreSQL
 
-✔ Turborepo Monorepo
+✅ Redis Cache
+
+✅ Turborepo Monorepo
 
 **Tech**
 
-Next.js • Express • TypeScript • PostgreSQL • Redis • Clerk
+Next.js • Express • TypeScript • PostgreSQL • Prisma • Redis • Clerk
 
-**Live**
+<br>
 
-https://book-review-app-8sur.onrender.com/
+[Live](https://book-review-app-8sur.onrender.com/)
 
-**Repo**
+•
 
-https://github.com/UnknownHawkins/BOOK_REVIEW_APP
+[Repo](https://github.com/UnknownHawkins/BOOK_REVIEW_APP)
 
 </td>
 
@@ -131,63 +142,63 @@ https://github.com/UnknownHawkins/BOOK_REVIEW_APP
 
 <td width="50%" align="center">
 
-## 🌐 Premium Portfolio
+### 🌍 Premium Portfolio
 
-Production-ready Developer Platform
+Production-ready developer portfolio.
 
-Features
+**Highlights**
 
-✔ Admin Dashboard
+✅ Admin Dashboard
 
-✔ GitHub API
+✅ GitHub API
 
-✔ PostgreSQL Database
+✅ Dynamic SEO
 
-✔ Redis Cache
+✅ PostgreSQL
 
-✔ Dynamic SEO
+✅ Redis Cache
 
-✔ NextAuth
+✅ NextAuth
 
 **Tech**
 
 Next.js 15 • TypeScript • Prisma • PostgreSQL
 
-**Live**
+<br>
 
-https://my-portfolio-tct6.onrender.com/
+[Live](https://my-portfolio-tct6.onrender.com/)
 
-**Repo**
+•
 
-https://github.com/UnknownHawkins/MY_PORTFOLIO
+[Repo](https://github.com/UnknownHawkins/MY_PORTFOLIO)
 
 </td>
 
 <td width="50%" align="center">
 
-## 👩‍💼 Women Safety Assistant
+### 👩‍💼 Women Safety Assistant
 
-Android application focused on emergency response and women's safety.
+Android emergency safety application.
 
-Features
+**Highlights**
 
-✔ SOS Alert
+✅ SOS Alerts
 
-✔ Voice Assistant
+✅ Voice Commands
 
-✔ Live Location
+✅ Live Location
 
-✔ Emergency Calling
+✅ Firebase
 
-✔ Firebase Integration
+✅ Emergency Calling
 
 **Tech**
 
 Kotlin • Java • Firebase
 
-**Repo**
+<br>
 
-https://github.com/UnknownHawkins/WOMEN_SAFETY_ASSISTANT
+[Repo](https://github.com/UnknownHawkins/WOMEN_SAFETY_ASSISTANT)
 
 </td>
 
@@ -197,61 +208,85 @@ https://github.com/UnknownHawkins/WOMEN_SAFETY_ASSISTANT
 
 <td width="50%" align="center">
 
-## 🤖 CareerPath AI
+### 🤖 CareerPath AI
 
 AI-powered career guidance platform.
 
-Features
+**Highlights**
 
-✔ Career Recommendations
+✅ Career Recommendations
 
-✔ Skill Gap Analysis
+✅ Skill Gap Analysis
 
-✔ Personalized Learning Roadmap
+✅ AI Learning Roadmap
 
-✔ Resume Insights
+✅ Resume Guidance
 
 **Tech**
 
 JavaScript • Gemini AI • HTML • CSS
 
-**Live**
+<br>
 
-https://careerpath-ai-neon.vercel.app/
+[Live](https://careerpath-ai-neon.vercel.app/)
 
-**Repo**
+•
 
-https://github.com/UnknownHawkins/CAREERPATH-AI
+[Repo](https://github.com/UnknownHawkins/CAREERPATH-AI)
 
 </td>
 
 <td width="50%" align="center">
 
-## 👨‍💻 CodeBuddy
+### 👨‍💻 CodeBuddy
 
-Collaborative platform to discover coding partners.
+Find coding partners and collaborate.
 
-Features
+**Highlights**
 
-✔ Team Discovery
+✅ Team Discovery
 
-✔ Collaboration
+✅ Responsive Design
 
-✔ Clean UI
+✅ Collaboration
 
-✔ Responsive Design
+✅ Modern UI
 
 **Tech**
 
 HTML5 • CSS3 • JavaScript
 
-**Live**
+<br>
 
-https://codebuddy-eight.vercel.app/
+[Live](https://codebuddy-eight.vercel.app/)
 
-**Repo**
+•
 
-https://github.com/UnknownHawkins/CODEBUDDY
+[Repo](https://github.com/UnknownHawkins/CODEBUDDY)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 🧪 Life Ruination Protocol
+
+Creative experimental web application exploring interactive UI concepts and unique user experiences.
+
+**Tech**
+
+JavaScript • HTML5 • CSS3
+
+<br>
+
+[Live](https://life-ruination-protocol.vercel.app/)
+
+•
+
+[Repo](https://github.com/UnknownHawkins/LIFE_RUINATION_PROTOCOL)
 
 </td>
 
@@ -265,35 +300,310 @@ https://github.com/UnknownHawkins/CODEBUDDY
 
 ## 🌱 Currently Learning
 
-* Advanced Next.js Architecture
-* TypeScript Design Patterns
-* Docker & Containerization
-* Redis Caching
-* System Design
-* Cloud Deployment
-* AI/LLM Integration
-* Cybersecurity Fundamentals
+* ⚛️ Advanced Next.js Architecture
+* 🟦 TypeScript Design Patterns
+* 🐳 Docker & Containerization
+* ⚡ Redis Caching
+* 🏗️ System Design
+* ☁️ Cloud Deployment
+* 🤖 AI & LLM Integration
+* 🛡️ Cybersecurity Fundamentals
+* 🌍 Open Source Collaboration
 
 ---
 
 ## 💬 Ask Me About
 
-⚛ React
+⚛️ React
 
-⚡ Next.js
+• 🚀 Next.js
 
-🚀 Full Stack Development
+• 🟦 TypeScript
 
-🟦 TypeScript
+• 🔥 Express.js
 
-🗄 PostgreSQL
+• 🗄️ PostgreSQL
 
-🧠 Prisma ORM
+• 🧠 Prisma ORM
 
-🔥 Express.js
+• 🤖 AI Integration
 
-🤖 AI Integration
+• 🐳 Docker
 
-🛡 Cybersecurity
+• 🛡️ Cybersecurity
 
-🐳 Docker
+• 🎨 UI/UX
+
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/fav7659)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anonymous7217/)
+[![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@scared__abhiii)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/scared__abhiii)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UnknownHawkins)
+[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/zqekyc3cjn/)
+[![Kaggle](https://skillicons.dev/icons?i=kaggle)](https://kaggle.com/scaredabhiii)
+
+</div>
+
+---
+
+## 🧩 Skills & Tools
+
+<div align="center">
+
+### 🚀 Frontend
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma)
+
+<br>
+
+### ⚙️ Backend & APIs
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase)
+
+<br>
+
+### 🗄️ Database & ORM
+
+![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,redis)
+
+<br>
+
+### 💻 Programming Languages
+
+![Languages](https://skillicons.dev/icons?i=java,python,c)
+
+<br>
+
+### ☁️ DevOps & Tools
+
+![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=UnknownHawkins&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+## 📈 GitHub Activity & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UnknownHawkins&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=UnknownHawkins&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnknownHawkins&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 💬 Daily Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/zqekyc3cjn?theme=dark&font=Roboto&ext=heatmap" width="700"/>
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/scared_abhiii" target="_blank">
+
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="200"/>
+
+</a>
+
+</div>
+
+---
+
+## 🚀 Current Goals
+
+```text
+🚀 Master Full Stack Engineering
+🤖 Build AI Powered Products
+🏗 Learn System Design
+☁️ Explore Cloud & DevOps
+🛡 Strengthen Cybersecurity Skills
+🌍 Contribute to Open Source
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+*"Code is more than syntax—it's solving real problems with creativity and consistency."*
+
+⭐ **If you enjoyed my projects, consider starring the repositories!**
+
+**Let's build something amazing together. 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+
+---
+
+## 📌 Featured Technologies
+
+<div align="center">
+
+| Frontend                     | Backend           | Database                              | DevOps                        | AI                                          |
+| ---------------------------- | ----------------- | ------------------------------------- | ----------------------------- | ------------------------------------------- |
+| React • Next.js • TypeScript | Node.js • Express | PostgreSQL • MongoDB • MySQL • Prisma | Docker • Git • GitHub • Linux | Google Gemini • DeepSeek • Google Books API |
+
+</div>
+
+---
+
+## 📂 Repository Highlights
+
+<div align="center">
+
+| Repository                       | Description                                                                                                                                         |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📚 **BookHub**                   | Enterprise Digital Reading Platform with AI-powered E-Book generation, Clerk authentication, Redis caching, PostgreSQL, and Turborepo architecture. |
+| 🏨 **EHMS**                      | Enterprise Hostel Management System featuring role-based dashboards, AI automation, Docker deployment, and PostgreSQL.                              |
+| 🌍 **Portfolio Platform**        | Modern Full Stack portfolio with Admin Dashboard, GitHub API integration, Prisma ORM, Redis caching, and dynamic SEO.                               |
+| 👩‍💼 **Women Safety Assistant** | Android emergency application with SOS alerts, live location sharing, and voice command integration.                                                |
+| 🤖 **CareerPath AI**             | AI-powered career guidance platform with personalized recommendations and learning roadmaps.                                                        |
+| 👨‍💻 **CodeBuddy**              | Platform helping students discover coding partners and collaborate on projects.                                                                     |
+
+</div>
+
+---
+
+## 📈 2026 Goals
+
+<div align="center">
+
+| 🎯 Goal                           | Status         |
+| --------------------------------- | -------------- |
+| 🚀 Build More Production Projects | 🔄 In Progress |
+| 🌍 Contribute to Open Source      | 🔄 In Progress |
+| 🏗 Master System Design           | 🔄 Learning    |
+| 🤖 Build AI Products              | 🔄 Ongoing     |
+| ☁️ Learn Cloud & DevOps           | 🔄 Ongoing     |
+| 💼 Secure Software Engineer Role  | 🎯 Target      |
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+```text
+💻 I enjoy turning ideas into production-ready software.
+
+🐞 Debugging teaches me more than writing code.
+
+📚 Every project is an opportunity to learn something new.
+
+🤖 AI is my productivity partner, not a replacement for engineering.
+
+🌙 Most of my best ideas come late at night.
+```
+
+---
+
+## 💡 Developer Philosophy
+
+> **"Great software isn't built by writing more code. It's built by writing the right code."**
+
+I believe software engineering is about solving real-world problems with simplicity, scalability, and maintainability.
+
+Every project I build focuses on:
+
+* 🚀 Performance
+* 🎨 User Experience
+* 🔒 Security
+* 🏗 Scalability
+* 📈 Continuous Improvement
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+* 🌐 Full Stack Applications
+* 🤖 AI & Machine Learning Projects
+* ⚛️ React / Next.js Applications
+* 🔐 Cybersecurity Projects
+* 🏆 Hackathons
+* 🌍 Open Source Contributions
+
+If you have an exciting idea, feel free to reach out!
+
+---
+
+<div align="center">
+
+## 🌟 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!;Always+Learning.+Always+Building.">
+
+### ⭐ If you like my work, don't forget to star my repositories!
+
+<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
