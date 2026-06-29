@@ -482,8 +482,8 @@ JavaScript • HTML5 • CSS3
 | Repository                       | Description                                                                                                                                         |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 📚 **BookHub**                   | Enterprise Digital Reading Platform with AI-powered E-Book generation, Clerk authentication, Redis caching, PostgreSQL, and Turborepo architecture. |
-| 🏨 **EHMS**                      | Enterprise Hostel Management System featuring role-based dashboards, AI automation, Docker deployment, and PostgreSQL.                              |
-| 🌍 **Portfolio Platform**        | Modern Full Stack portfolio with Admin Dashboard, GitHub API integration, Prisma ORM, Redis caching, and dynamic SEO.                               |
+| 🏨 **HMS**                      | Hostel Management System featuring role-based dashboards, AI automation, Docker deployment, and PostgreSQL.                              |
+| 🌍 **Portfolio Platform**        | Full Stack portfolio with Admin Dashboard, GitHub API integration, Prisma ORM, Redis caching, and dynamic SEO.                               |
 | 👩‍💼 **Women Safety Assistant** | Android emergency application with SOS alerts, live location sharing, and voice command integration.                                                |
 | 🤖 **CareerPath AI**             | AI-powered career guidance platform with personalized recommendations and learning roadmaps.                                                        |
 | 👨‍💻 **CodeBuddy**              | Platform helping students discover coding partners and collaborate on projects.                                                                     |
