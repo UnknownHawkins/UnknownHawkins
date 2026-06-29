@@ -1,217 +1,299 @@
 <div align="center">
-<h1>
-  <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
-</h1>
-<h3>
-  <p>Frontend Developer, CyberSecurity Explorer, AI & Ml Explorer</p>
-</h3>
+
+# <span style="font-size:50px;font-weight:900;">ANUBHAV SINGH</span>
+
+### Full Stack Developer • AI Explorer • Cybersecurity Explorer
+
+*"Building scalable software, beautiful interfaces, and intelligent systems."*
+
 <br>
-</div>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-<div>
-## ✨ About Me — *The Human Behind The Code*
-  
-Pre-final Year **CSE Student @ GLA University, Mathura**  
-Building aesthetic & performant web experiences  
-Focused on **React, UI Engineering, Animations, Cybersecurity**  
-Learn by **build → break → debug → master**
-Turning ideas into delightful interfaces  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;AI+Powered+Applications;Backend+Engineering;Open+Source+Learner;Always+Building+Something+Cool+🚀" />
 
 </div>
 
-> _“I debug more than I code — which is exactly why my code works.”_ 😄
-
-
-<div>
-## 🔥 Current Mission
-
-###  **WOMAN SAFETY APP**  
-The Women Safety Voice Assistant is an Android-based application developed using Kotlin and Java to enhance women’s security during emergency situations.
-
-🔗 **Repo:** https://github.com/UnknownHawkins/WOMEN_SAFETY_ASSISTANT
-
-</div>
----
 ---
 
-## 🌟 Projects Showcase
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+# ✨ About Me — *The Human Behind The Code*
+
+🎓 **Final Year Computer Science Engineering Student @ GLA University, Mathura**
+
+I enjoy building **production-ready full-stack applications** with modern architectures, clean UI, scalable backend systems, and AI integrations.
+
+Currently interested in:
+
+* 🚀 Full Stack Engineering
+* ⚛️ React & Next.js
+* 🤖 AI Powered Applications
+* 🏗️ Software Architecture
+* 🛡️ Cybersecurity
+* ☁️ Cloud & DevOps
+
+I strongly believe in
+
+> **Build → Break → Debug → Improve → Repeat**
+
+Turning ideas into products people actually enjoy using.
+
+> *"I debug more than I code — which is exactly why my code works."* 😄
+
+---
+
+# 🔥 Current Mission
+
+### 🏨 Enterprise Hostel Management System (EHMS)
+
+Building a production-ready hostel management platform with **AI automation, RBAC authentication, Docker deployment, PostgreSQL, Redis caching, and enterprise architecture.**
+
+🔗 **Repository:** https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM
+
+---
+
+# 🌟 Projects Showcase
 
 <div align="center">
 
 <table>
+
 <tr>
-<td width="45%" align="center">
 
-### 👨‍💻 CodeBuddy  
-Find coding partners. Build teams. Collaborate smartly.  
-**Tech:** HTML5 • CSS3 • JavaScript  
+<td width="50%" align="center">
 
-[Live](https://codebuddy-eight.vercel.app/) • [Repo](https://github.com/UnknownHawkins/CODEBUDDY)
+## 🏨 EHMS
+
+**Enterprise Hostel Management System**
+
+Production-ready hostel management platform featuring:
+
+✔ Student Portal
+
+✔ Warden Dashboard
+
+✔ Admin Panel
+
+✔ AI Complaint Analysis
+
+✔ Leave Management
+
+✔ Payments
+
+✔ Docker Deployment
+
+**Tech**
+
+Next.js 15 • Express • TypeScript • Prisma • PostgreSQL • Redis • Docker
+
+**Repo**
+
+https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
-### 📚 BookHub  
-React-powered book discovery & review platform.  
-**Tech:** React.js • CSS3 • HTML5
+## 📚 BookHub
 
-[Live](https://book-review-app-8sur.onrender.com/) • [Repo](https://github.com/UnknownHawkins/BOOK_REVIEW_APP)
+**Enterprise Digital Reading Platform**
+
+AI-powered social reading application with:
+
+✔ Google Books Integration
+
+✔ AI E-Book Generation
+
+✔ Clerk Authentication
+
+✔ Prisma ORM
+
+✔ Redis Cache
+
+✔ Turborepo Monorepo
+
+**Tech**
+
+Next.js • Express • TypeScript • PostgreSQL • Redis • Clerk
+
+**Live**
+
+https://book-review-app-8sur.onrender.com/
+
+**Repo**
+
+https://github.com/UnknownHawkins/BOOK_REVIEW_APP
 
 </td>
+
 </tr>
 
 <tr>
-<td width="45%" align="center">
 
-### 🏫 Hostel Management System  
-Responsive interface for hostel operations.  
-**Tech:** HTML5 • CSS3 • JavaScript  
+<td width="50%" align="center">
 
-[Live](https://hostel-management-system-pearl.vercel.app/) • [Repo](https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM)
+## 🌐 Premium Portfolio
+
+Production-ready Developer Platform
+
+Features
+
+✔ Admin Dashboard
+
+✔ GitHub API
+
+✔ PostgreSQL Database
+
+✔ Redis Cache
+
+✔ Dynamic SEO
+
+✔ NextAuth
+
+**Tech**
+
+Next.js 15 • TypeScript • Prisma • PostgreSQL
+
+**Live**
+
+https://my-portfolio-tct6.onrender.com/
+
+**Repo**
+
+https://github.com/UnknownHawkins/MY_PORTFOLIO
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
-### 🤖 CareerPath-AI  
-AI-powered personalized career suggestions.  
-**Tech:** JavaScript • HTML5 • CSS3  
+## 👩‍💼 Women Safety Assistant
 
-[Live](https://careerpath-ai-neon.vercel.app/) • [Repo](https://github.com/UnknownHawkins/CAREERPATH-AI)
+Android application focused on emergency response and women's safety.
+
+Features
+
+✔ SOS Alert
+
+✔ Voice Assistant
+
+✔ Live Location
+
+✔ Emergency Calling
+
+✔ Firebase Integration
+
+**Tech**
+
+Kotlin • Java • Firebase
+
+**Repo**
+
+https://github.com/UnknownHawkins/WOMEN_SAFETY_ASSISTANT
+
 </td>
+
 </tr>
 
 <tr>
-<td width="45%" align="center">
 
-### 🧪 Life Ruination Protocol  
-Creative, experimental logic-art project.  
-**Tech:** JavaScript • HTML5 • CSS3  
+<td width="50%" align="center">
 
-[Live](https://life-ruination-protocol.vercel.app/) • [Repo](https://github.com/UnknownHawkins/LIFE_RUINATION_PROTOCOL)
+## 🤖 CareerPath AI
+
+AI-powered career guidance platform.
+
+Features
+
+✔ Career Recommendations
+
+✔ Skill Gap Analysis
+
+✔ Personalized Learning Roadmap
+
+✔ Resume Insights
+
+**Tech**
+
+JavaScript • Gemini AI • HTML • CSS
+
+**Live**
+
+https://careerpath-ai-neon.vercel.app/
+
+**Repo**
+
+https://github.com/UnknownHawkins/CAREERPATH-AI
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
-### 🌍 Portfolio  
-Clean, modern personal portfolio.  
-**Tech:** JavaScript • HTML5 • CSS3  
-[Live](https://my-portfolio-tct6.onrender.com/) • [Repo](https://github.com/UnknownHawkins/MY_PORTFOLIO)
+## 👨‍💻 CodeBuddy
+
+Collaborative platform to discover coding partners.
+
+Features
+
+✔ Team Discovery
+
+✔ Collaboration
+
+✔ Clean UI
+
+✔ Responsive Design
+
+**Tech**
+
+HTML5 • CSS3 • JavaScript
+
+**Live**
+
+https://codebuddy-eight.vercel.app/
+
+**Repo**
+
+https://github.com/UnknownHawkins/CODEBUDDY
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
 ---
----
 
 ## 🌱 Currently Learning
 
-- React Patterns (Context, Memo, Optimization)  
-- Tailwind UI Architecture  
-- Firebase Auth + Firestore  
-- Cybersecurity Fundamentals  
-- Open Source Collaboration
-- AI/ML Explorer  
+* Advanced Next.js Architecture
+* TypeScript Design Patterns
+* Docker & Containerization
+* Redis Caching
+* System Design
+* Cloud Deployment
+* AI/LLM Integration
+* Cybersecurity Fundamentals
 
----
 ---
 
 ## 💬 Ask Me About
 
 ⚛ React
-• 🟨 javaScript
-•     CSS3
-• 🎨 UI/UX 
-• 🔥 Firebase 
-• 🛡 Cybersecurity Basics  
 
----
----
+⚡ Next.js
 
-## 🌐 Connect With Me
+🚀 Full Stack Development
 
-<div align="center">
+🟦 TypeScript
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/fav7659)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anonymous7217/)
-[![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@scared__abhiii)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/scared__abhiii)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UnknownHawkins)
-[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/zqekyc3cjn/)
-[![Kaggle](https://skillicons.dev/icons?i=kaggle)](https://kaggle.com/scaredabhiii)
+🗄 PostgreSQL
 
-</div>
+🧠 Prisma ORM
 
----
----
+🔥 Express.js
 
-## 🧩 Skills & Tools
+🤖 AI Integration
 
-<div align="center">
+🛡 Cybersecurity
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,git,github,linux,python,java,c,mysql,mongodb,vscode,figma)
-
-</div>
-
----
----
-
-## 📈 Activity & Stats
-
-<div align="center">
-<p align="center">
-  <img src="https://github-readme-stats-phi-ashen.vercel.app/api?username=UnknownHawkins&show_icons=true&theme=tokyonight" height="170">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=UnknownHawkins&layout=compact&theme=synthwave" height="150">
-</p>
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnknownHawkins&theme=tokyo-night&hide_border=true" />
-</div>
-
----
----
-
-## 💬 Daily Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/UnknownHawkins?theme=dark&font=Roboto&ext=heatmap" width="700px" />
-</div>
-
-<div align="center">
-<a href="https://buymeacoffee.com/scared_abhiii" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="190" />
-</a>
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If this README impressed you — please ⭐ star my repositories  
-🔥 Your support motivates my next builds  
-
-</div>
----
-
+🐳 Docker
