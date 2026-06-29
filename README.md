@@ -70,7 +70,7 @@ https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM
 
 <td width="50%" align="center">
 
-### 🏨 Enterprise Hostel Management System
+### 🏨 Hostel Management System
 
 Production-ready hostel management platform.
 
@@ -116,7 +116,7 @@ Next.js • Express • TypeScript • PostgreSQL • Prisma • Redis • Clerk
 
 <br>
 
-[Live](https://book-review-app-8sur.onrender.com/)
+[Live](https://bookreviewapp-blond.vercel.app/)
 
 
 [Repo](https://github.com/UnknownHawkins/BOOK_REVIEW_APP)
