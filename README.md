@@ -349,14 +349,6 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=UnknownHawkins&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
 ---
 
 ## 📈 GitHub Activity & Stats
