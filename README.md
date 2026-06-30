@@ -3,7 +3,7 @@
 <h1>
   <span style="font-size: 50px; font-weight: 900;">ANUBHAV SINGH</span>
 </h1>
-
+<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <h3>
   <p>Front-End Developer • AI Explorer • Cybersecurity Explorer</p>
 </h3>
@@ -540,6 +540,5 @@ If you have an exciting idea, feel free to reach out!
 
 **Let's build something amazing together**
 
-<img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
