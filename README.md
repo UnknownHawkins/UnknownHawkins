@@ -538,7 +538,7 @@ If you have an exciting idea, feel free to reach out!
 
 ⭐ **If you enjoyed my projects, consider starring the repositories!**
 
-**Let's build something amazing together. 🚀**
+**Let's build something amazing together**
 
 <img src="https://komarev.com/ghpvc/?username=UnknownHawkins&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
