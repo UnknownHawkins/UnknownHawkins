@@ -25,7 +25,6 @@ I enjoy turning ideas into software that is fast, reliable, and enjoyable to use
 ### 🚀 Interests
 
 * ⚛️ React & Next.js
-* 🚀 Full Stack Engineering
 * 🤖 AI Powered Applications
 * 🏗️ Software Architecture
 * 🗄️ Database Design
