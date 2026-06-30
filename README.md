@@ -22,7 +22,7 @@ I'm passionate about building **production-ready full-stack applications** with 
 
 I enjoy turning ideas into software that is fast, reliable, and enjoyable to use.
 
-### 🚀 Interests
+### Interests
 
 * ⚛️ React & Next.js
 * 🤖 AI Powered Applications
@@ -39,9 +39,9 @@ I strongly believe in
 
 ---
 
-## 🔥 Current Mission
+## Current Mission
 
-### 🏨 Hostel Management System (HMS)
+### Hostel Management System (HMS)
 
 Building a production-ready hostel management platform featuring:
 
@@ -59,7 +59,7 @@ https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM
 
 ---
 
-## 🌟 Projects Showcase
+## Projects Showcase
 
 <div align="center">
 
@@ -69,7 +69,7 @@ https://github.com/UnknownHawkins/HOSTEL-MANAGEMENT-SYSTEM
 
 <td width="50%" align="center">
 
-### 🏨 Hostel Management System
+### Hostel Management System
 
 Production-ready hostel management platform.
 
@@ -95,7 +95,7 @@ Next.js 15 • Express • TypeScript • Prisma • PostgreSQL • Redis • Do
 
 <td width="50%" align="center">
 
-### 📚 BookHub
+### BookHub
 
 Enterprise Digital Reading Platform
 
@@ -128,7 +128,7 @@ Next.js • Express • TypeScript • PostgreSQL • Prisma • Redis • Clerk
 
 <td width="50%" align="center">
 
-### 🌍 Premium Portfolio
+###  Portfolio Website
 
 Production-ready developer portfolio.
 
@@ -156,7 +156,7 @@ Next.js 15 • TypeScript • Prisma • PostgreSQL
 
 <td width="50%" align="center">
 
-### 👩‍💼 Women Safety Assistant
+### Women Safety Assistant
 
 Android emergency safety application.
 
@@ -184,7 +184,7 @@ Kotlin • Java • Firebase
 
 <td width="50%" align="center">
 
-### 🤖 CareerPath AI
+### CareerPath AI
 
 AI-powered career guidance platform.
 
@@ -210,7 +210,7 @@ JavaScript • Gemini AI • HTML • CSS
 
 <td width="50%" align="center">
 
-### 👨‍💻 CodeBuddy
+### CodeBuddy
 
 Find coding partners and collaborate.
 
@@ -240,7 +240,7 @@ HTML5 • CSS3 • JavaScript
 
 <td colspan="2" align="center">
 
-### 🧪 Life Ruination Protocol
+### Life Ruination Protocol
 
 Creative experimental web application exploring interactive UI concepts and unique user experiences.
 
@@ -265,7 +265,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * ⚛️ Advanced Next.js Architecture
 * 🟦 TypeScript Design Patterns
@@ -279,7 +279,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 ⚛️ React
 
@@ -296,7 +296,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -312,35 +312,35 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 🧩 Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
-### 🚀 Frontend
+### Frontend
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma)
 
 <br>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase)
 
 <br>
 
-### 🗄️ Database & ORM
+### Database & ORM
 
 ![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,redis)
 
 <br>
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![Languages](https://skillicons.dev/icons?i=java,python,c)
 
 <br>
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 
 ![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman)
 
@@ -350,7 +350,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 📈 GitHub Activity & Stats
+## GitHub Activity & Stats
 
 <div align="center">
 
@@ -370,7 +370,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -380,7 +380,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 💬 Daily Dev Quote
+## Daily Dev Quote
 
 <div align="center">
 
@@ -390,7 +390,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -400,7 +400,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -410,7 +410,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## ☕ Support My Work
+## Support My Work
 
 <div align="center">
 
@@ -424,7 +424,7 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 🚀 Current Goals
+## Current Goals
 
 ```text
 🚀 Master Full Stack Engineering
@@ -438,7 +438,7 @@ JavaScript • HTML5 • CSS3
 ---
 ---
 
-## 📌 Featured Technologies
+## Featured Technologies
 
 <div align="center">
 
@@ -450,24 +450,24 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## 📂 Repository Highlights
+## Repository Highlights
 
 <div align="center">
 
 | Repository                       | Description                                                                                                                                         |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📚 **BookHub**                   | Enterprise Digital Reading Platform with AI-powered E-Book generation, Clerk authentication, Redis caching, PostgreSQL, and Turborepo architecture. |
-| 🏨 **HMS**                      | Hostel Management System featuring role-based dashboards, AI automation, Docker deployment, and PostgreSQL.                              |
-| 🌍 **Portfolio Platform**        | Full Stack portfolio with Admin Dashboard, GitHub API integration, Prisma ORM, Redis caching, and dynamic SEO.                               |
-| 👩‍💼 **Women Safety Assistant** | Android emergency application with SOS alerts, live location sharing, and voice command integration.                                                |
-| 🤖 **CareerPath AI**             | AI-powered career guidance platform with personalized recommendations and learning roadmaps.                                                        |
-| 👨‍💻 **CodeBuddy**              | Platform helping students discover coding partners and collaborate on projects.                                                                     |
+|  **BookHub**                   | Enterprise Digital Reading Platform with AI-powered E-Book generation, Clerk authentication, Redis caching, PostgreSQL, and Turborepo architecture. |
+|  **HMS**                      | Hostel Management System featuring role-based dashboards, AI automation, Docker deployment, and PostgreSQL.                              |
+|  **Portfolio Platform**        | Full Stack portfolio with Admin Dashboard, GitHub API integration, Prisma ORM, Redis caching, and dynamic SEO.                               |
+|  **Women Safety Assistant** | Android emergency application with SOS alerts, live location sharing, and voice command integration.                                                |
+|  **CareerPath AI**             | AI-powered career guidance platform with personalized recommendations and learning roadmaps.                                                        |
+|  **CodeBuddy**              | Platform helping students discover coding partners and collaborate on projects.                                                                     |
 
 </div>
 
 ---
 
-## 📈 2026 Goals
+## 2026 Goals
 
 <div align="center">
 
@@ -484,23 +484,23 @@ JavaScript • HTML5 • CSS3
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
 ```text
-💻 I enjoy turning ideas into production-ready software.
+ I enjoy turning ideas into production-ready software.
 
-🐞 Debugging teaches me more than writing code.
+ Debugging teaches me more than writing code.
 
-📚 Every project is an opportunity to learn something new.
+ Every project is an opportunity to learn something new.
 
-🤖 AI is my productivity partner, not a replacement for engineering.
+ AI is my productivity partner, not a replacement for engineering.
 
-🌙 Most of my best ideas come late at night.
+ Most of my best ideas come late at night.
 ```
 
 ---
 
-## 💡 Developer Philosophy
+## Developer Philosophy
 
 > **"Great software isn't built by writing more code. It's built by writing the right code."**
 
@@ -516,7 +516,7 @@ Every project I build focuses on:
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm always interested in collaborating on:
 
@@ -532,7 +532,7 @@ If you have an exciting idea, feel free to reach out!
 ---
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+##  Thanks for Visiting!
 
 *"Code is more than syntax—it's solving real problems with creativity and consistency."*
 
